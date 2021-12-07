@@ -1,4 +1,4 @@
-<h1 align="center">Hey there!👋, I'm Pat Brennan.</h1>
+<h1 align="center">Hey there!👋 I'm Pat Brennan.</h1>
 <h3 align="center">A simple Web Developer from Pennsylvania.</h3>
 
 - 🌱 I’m currently learning **JavaScript, and React.js**

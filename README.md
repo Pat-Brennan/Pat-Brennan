@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **JavaScript, and React.js**
 
-- 😺 Ask me about **my special meow meow**
-
 - 👾 I’m interested in learning **Game Development**
 
 - 📫 How to reach me: **patbrennan7@gmail.com**
+
+- 😺 Ask me about **my special meow meow**
 
 - ⚡ Fun fact, **I also write music and release it sometimes!**
 

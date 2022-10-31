@@ -1,15 +1,15 @@
-<h1 align="center">Hi! I'm Pat. 😸</h1>
-<h3 align="center">A <i>Frontend Developer</i> based in Philadelphia, PA.</h3>
+<h1 align="center">Hi! I'm Pat. 👻</h1>
+<h3 align="center">A⚡<i>Frontend Developer</i>⚡based in <i>Philadelphia, PA.</i> 🔔</h3>
 
 - 🌱 I’m currently learning **Python as my next language!**
 
-- 👾 I’m interested in learning **Gamedev and the Godot Game Engine**
+- 👾 I’m interested in learning **Gamedev and the Godot Game Engine!**
 
 - 🚀 Please send a transmission here: **patbrennan7@gmail.com**
 
 - 😺 Ask me about **my cat, Eorah!**
 
-- ⚡ Fun fact, **I also write music and release it sometimes!**
+- 💡 Fun fact, **I also write music and release it sometimes!**
 
 <h3 align="left" ><i>Connect with me:</i></h3>
 <p align="left">

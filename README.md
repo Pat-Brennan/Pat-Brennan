@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Pat. 👻</h1>
-<h3 align="center">A⚡<i>Frontend Developer</i>⚡based in <i>Philadelphia, PA.</i> 🔔</h3>
+<h3 align="center">A <i>Frontend Developer</i>⚡based in <i>Philadelphia, PA.</i> 🔔</h3>
 
 - 🌱 I’m currently learning **Python as my next language!**
 

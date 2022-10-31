@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/patrick brennan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrick brennan" height="30" width="40" /></a>
+<a href="https://twitter.com/@entity_astro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@entity_astro" height="30" width="40" /></a>
 <a href="https://instagram.com/pat___brennan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pat___brennan" height="30" width="40" /></a>
 
   <h3 align="left">Languages and Tools:</h3>

@@ -1,7 +1,7 @@
 <h1>Hi! I'm Pat. 👻</h1>
 <h3>A ⚡<i>Frontend Developer</i>⚡based in <i>Philadelphia, PA.</i> 🔔</h3>
 
-- 🌱 I’m currently learning **React! ⚛️**
+- 🌱 I’m currently learning **React-Native! ⚛️**
 
 - 👾 I’m interested in learning **Gamedev and the Godot Game Engine! 🤖**
 

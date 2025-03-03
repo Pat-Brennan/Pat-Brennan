@@ -1,13 +1,13 @@
 <h1>Hi! I'm Pat. 👻</h1>
-<h3>A ⚡<i>Frontend Developer</i>⚡based in <i>Philadelphia, PA.</i> 🔔</h3>
+<h3>A ⚡<i>SysAdmin</i>⚡based in <i>Philadelphia, PA.</i> 🔔</h3>
 
-- 🌱 I’m currently learning **React-Native! ⚛️**
+- 🌱 I’m currently learning **PowerShell! 🐢**
 
 - 👾 I’m interested in learning **Gamedev and the Godot Game Engine! 🤖**
 
 - 🚀 Please send a transmission here: **patbrennan7@gmail.com 📨**
 
-- 😺 Ask me about **my cat, Eorah! 🖤**
+- 😺 Ask me about **my cats, Eorah and Luci! 🐈‍⬛**
 
 - 💡 Fun fact, **I also write music and release it sometimes! 🎵**
 
